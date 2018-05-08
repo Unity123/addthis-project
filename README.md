@@ -1,3 +1,3 @@
 # addthis-project
-This is the addthis website repo.
-I suggest you check out the actual site.
+<p>This is the addthis website repo.</p>
+<p>I suggest you check out the actual site.</p>
